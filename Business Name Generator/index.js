@@ -11,10 +11,10 @@
             first = "Amazing"
         }
         else{
-            first = "Pubjabi"
+            first = "Punjabi"
         }
 
-        // Lets generate the second word
+        // Lets generate the second wordclea
         rand = Math.random()
         if(rand<0.33){
             second = "Engine"
